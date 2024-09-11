@@ -1,8 +1,6 @@
-# Form3 Take Home Exercise
+# XXX Take Home Exercise
 ## By Daniel Martinez Galdeano
 ---
-I want to apologize for the delay in completing this test.
-I haven't had much time to do it (personal reasons)
 
 I've only done the basic things to have a test validatable.
 
@@ -25,7 +23,7 @@ Thanks
 
 ---
 
-Engineers at Form3 build highly available distributed systems in a microservices environment. Our take home test is designed to evaluate real world activities that are involved with this role. We recognise that this may not be as mentally challenging and may take longer to implement than some algorithmic tests that are often seen in interview exercises. Our approach however helps ensure that you will be working with a team of engineers with the necessary practical skills for the role (as well as a diverse range of technical wizardry). 
+Engineers at XXXX build highly available distributed systems in a microservices environment. Our take home test is designed to evaluate real world activities that are involved with this role. We recognise that this may not be as mentally challenging and may take longer to implement than some algorithmic tests that are often seen in interview exercises. Our approach however helps ensure that you will be working with a team of engineers with the necessary practical skills for the role (as well as a diverse range of technical wizardry). 
 
 ## Instructions
 The goal of this exercise is to write a client library in Go to access our fake account API, which is provided as a Docker
@@ -50,7 +48,7 @@ The finished solution **should:**
 - Run the tests when `docker-compose up` is run - our reviewers will run `docker-compose up` and expect to see the test results in the output.
 - Be simple and concise.
 
-### Should Nots
+### Should Notes
 
 The finished solution **should not:**
 - Use a code generator to write the client library.
@@ -65,21 +63,3 @@ The finished solution **should not:**
 - Be a command line client or other type of program - the requirement is to write a client library.
 - Implement the `List` operation.
 > We give no credit for including any of the above in a submitted test, so please only focus on the "Shoulds" above.
-
-## How to submit your exercise
-
-- Include your name in the README. If you are new to Go, please also mention this in the README so that we can consider this when reviewing your exercise
-- Create a private [GitHub](https://help.github.com/en/articles/create-a-repo) repository, by copying all files you deem necessary for your submission
-- [Invite](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository) [@form3tech-interviewer-1](https://github.com/form3tech-interviewer-1) to your private repo
-- Let us know you've completed the exercise using the link provided at the bottom of the email from our recruitment team
-
-## License
-
-Copyright 2019-2023 Form3 Financial Cloud
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
